@@ -51,13 +51,8 @@ copyright:             >
 # Add links to the footer.
 # Typically you'll want to link to your impress, cookies or privacy policy, etc.
 # legal:
-<<<<<<< HEAD
     - title:             Vintage vector created by alekksall - www.freepik.com
       href:              https://www.freepik.com/free-photos-vectors/vintage
-=======
-    - title:             <a href="https://www.freepik.com/free-photos-vectors/vintage">Vintage vector created by alekksall - www.freepik.com</a>
-#     href:              /impress/
->>>>>>> parent of ae91ca7... Revert "Replacing default images, especially cover page"
 #   - title:             Cookies Policy
 #     href:              /cookies-policy/
 
