@@ -2,8 +2,6 @@
 
 This repo is a special little place, where I work on a little blog. Most of the guts of this project is based on the Hydejack repo by qwtel (links below to that) with a few tweaks here and there for fun.
 
-I've included the basic config and authors file ('default-config.yml' & '\_data/default-authors.yml') which if you want to clone this repository, you'll have to rename to '\_config.yml' and '\_data/authors.yml' respectively to get things going. This is just to avoid personal details getting leaked, you know how it is.
-
 Below are the instructions for running the jekyll site locally or through GitHub pages.
 
 ## Hydejack Starter Kit
