@@ -2,7 +2,9 @@
 
 This repo is a special little place, where I work on a little blog. Most of the guts of this project is based on the Hydejack repo by qwtel (links below to that) with a few tweaks here and there for fun.
 
-Please note, for images, it's important to have three sizes (the largest being 1080p) to account for different device sizes (i.e. hydejack-8.jpg, hydejack-8@0,5x.jpg & hydejack-8@0,25x.jpg).
+Please note a few things that make this all look coherent:
+* For images, it's important to have three sizes (the largest being 1080p) to account for different device sizes (i.e. hydejack-8.jpg, hydejack-8@0,5x.jpg & hydejack-8@0,25x.jpg)
+* Each 'blog post' has the tag 'blog' and the category (either 'music' or 'health' or whatever the topic may be) so that they are organised by category, but all accessible from the 'blog' menu
 
 Below are the instructions for running the jekyll site locally or through GitHub pages.
 
