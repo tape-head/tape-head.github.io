@@ -1,1 +1,9 @@
 // You can add CSS rules here that will be inlined into each document.
+
+@import url('https://fonts.googleapis.com/css?family=Cutive+Mono|Roboto+Mono:300');
+
+$font-stack: 'Cutive Mono', 'Roboto Mono', monospace;
+
+html, body {
+    font-family: $font-stack;
+}
